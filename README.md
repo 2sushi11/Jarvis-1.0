@@ -1,5 +1,5 @@
-# Jarvis-1.0
-A vocal assistant like jarvis. First prototype.
+# E.D.I.T.H
+A vocal assistant like JARVIS. It's a first prototype.
 
 Requirements:
 
